@@ -1,6 +1,6 @@
 python-slugify
 redis
-celery==4.3.0rc3
+celery==5.2.2
 django-celery-email==2.0.1
 daphne
 django==2.1.9
