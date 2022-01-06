@@ -9,7 +9,7 @@ autobahn==19.7.1
 Automat==0.7.0
 awesome-slugify==1.6.5
 billiard==3.6.0.0
-celery==4.3.0rc3
+celery==5.2.2
 certifi==2019.6.16
 cffi==1.12.3
 channels==2.2.0
