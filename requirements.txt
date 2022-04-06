@@ -60,7 +60,7 @@ rjsmin==1.1.0
 six==1.12.0
 sorl-thumbnail==12.5.0
 text-unidecode==1.2
-Twisted==19.2.1
+Twisted==22.2.0
 txaio==18.8.1
 Unidecode==0.4.21
 urllib3==1.24.3
